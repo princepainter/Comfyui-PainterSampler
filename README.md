@@ -8,7 +8,17 @@ One node, same quality.
 
 **用单个 PainterSampler 替换两个 KSamplerAdvanced —— 显存、内存、生成效果完全一致。**  
 Replace two KSamplerAdvanced with a single PainterSampler — same VRAM, same RAM, same frames.
+ <img src="20251117111814.jpg" alt="图1" width="900">
+  
+  ## 和comfyui官方采样器效果对比Comparison with the Ksampler of the official ComfyUI
 
+<table>
+  <tr>
+    <td><img src="image (2)/01.gif" alt="图1" width="300"></td>
+    <td><img src="image (2)/02.gif" alt="图2" width="300"></td>
+    <td><img src="image (2)/03.gif" alt="图3" width="300"></td>
+  </tr>
+</table>
 ---
 
 ## 功能 | Features  
