@@ -6,8 +6,8 @@
 **一个节点，一样画质。**  
 One node, same quality.
 
-**用单个 PainterSampler 替换两个 KSamplerAdvanced —— 显存、内存、生成效果完全一致。**  
-Replace two KSamplerAdvanced with a single PainterSampler — same VRAM, same RAM, same frames.
+**用单个 PainterSampler 替换两个 KSamplerAdvanced —— 显存、内存、生成效果完全一致。但是不需要再连那么多线，可以让你的工作流看起来更简洁 **  
+Replace two KSamplerAdvanced with a single PainterSampler — same VRAM, same RAM, same frames.But there's no need to create so many node connections – this will make your ComfyUI workflow look much cleaner.
  <img src="20251117111814.jpg" alt="图1" width="900">
   
   ## 和comfyui官方采样器效果对比Comparison with the Ksampler of the official ComfyUI
