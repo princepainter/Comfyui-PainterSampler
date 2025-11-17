@@ -1,5 +1,5 @@
 # PainterSampler for ComfyUI  
-**ComfyUI 图生视频双模型串联采样器**
+**ComfyUI 图生视频双模型串联采样器.本节点由抖音博主：绘画小子 制作**
 
 ---
 
